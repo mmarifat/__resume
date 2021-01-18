@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610992526836</updated>
-      <workItem from="1610992527945" duration="598000" />
+      <workItem from="1610992527945" duration="1277000" />
     </task>
     <task id="LOCAL-00001" summary="working exp">
       <created>1610993059695</created>
@@ -53,7 +53,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610993059695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dev">
+      <created>1610993135413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610993135413</updated>
+    </task>
+    <task id="LOCAL-00003" summary="icon">
+      <created>1610993464486</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610993464486</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,6 +75,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="working exp" />
-    <option name="LAST_COMMIT_MESSAGE" value="working exp" />
+    <MESSAGE value="dev" />
+    <MESSAGE value="icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="icon" />
   </component>
 </project>
